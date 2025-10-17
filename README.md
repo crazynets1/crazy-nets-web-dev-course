@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Crazy Nets Web Development Course Banner" width="300px" height='300px'>
+  <img src="assets/banner.png" alt="Crazy Nets Web Development Course Banner" width="300px" height='300px'>
 </p>
 
 # 🌐 Crazy Nets Web Development Course
