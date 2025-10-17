@@ -6,7 +6,7 @@
 
 Welcome to the **Crazy Nets Web Development Course** — a 36-week, hands-on journey designed to transform complete beginners into confident front-end web developers.
 
-Through this course, you’ll learn to design, build, and deploy professional websites and modern web applications using **HTML, CSS, JavaScript, React, Git, APIs,** and **Deployment tools**.
+Through this course, you’ll learn to design, build, and deploy professional websites and modern web applications using **```HTML```, ```CSS```, ```JavaScript```, ```React```, ```Git```, ```APIs```,** and **```Deployment tools```**.
 
 ---
 
