@@ -43,5 +43,7 @@ Each module includes a `README.md` file with weekly lessons, practice exercises,
 
 ---
 
+> #web-development-course #html #css #javascript #react #git #api #deployment #frontend-roadmap #education #crazy-nets #learn-to-code
+>
 > _“Empowering tomorrow’s developers — one line of code at a time.”_  
-> **— Crazy Nets**
+> **By Crazy Nets**
