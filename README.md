@@ -23,7 +23,7 @@ Each module contains weekly objectives, coding exercises, and mini-projects to r
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/your-username/crazy-nets-webdev-course.git
+git clone https://github.com/[your-username]/crazy-nets-webdev-course.git
 cd crazy-nets-webdev-course/modules
 ```
 Each module includes a `README.md` file with weekly lessons, practice exercises, and project briefs.
